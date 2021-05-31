@@ -6,6 +6,8 @@
 #[derive(Debug)]
 enum Message {
     // TODO: define the different variants used below
+    Quit = { struct someStruct { x: i32, y: i32} },
+
 }
 
 impl Message {
