@@ -1,3 +1,6 @@
+# Rustlings exercises dir
+Temporary git to store my personal rustlings files in
+
 # Exercise to Book Chapter mapping
 
 | Exercise               | Book Chapter |
